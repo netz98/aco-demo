@@ -2,7 +2,6 @@
   "public": {
     "default": {
       "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/HM4ZhjqDZDi2yBfwM5HFuY/graphql",
-      "commerce-core-endpoint": "https://na1-sandbox.api.commerce.adobe.com/PGPvDM1pujRq1pSWXfsr4E/graphql",
       "commerce-b2b-enabled": false,
       "commerce-companies-enabled": false,
       "commerce-assets-enabled": true,
@@ -12,9 +11,6 @@
           "Store": "default"
         },
         "cs": {
-          "Magento-Store-Code": "main_website_store",
-          "Magento-Store-View-Code": "default",
-          "Magento-Website-Code": "base",
           "ac-view-id": "a47177cd-a7b1-4717-b053-e37b2a5370c5",
           "ac-price-book-id": "eu"
         }
