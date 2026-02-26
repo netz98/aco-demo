@@ -2,7 +2,6 @@
   "public": {
     "default": {
       "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/HM4ZhjqDZDi2yBfwM5HFuY/graphql",
-      "catalog-endpoint": "https://na1-sandbox.api.commerce.adobe.com/HM4ZhjqDZDi2yBfwM5HFuY/v1/catalog",
       "adobe-commerce-optimizer": true,
       "headers": {
         "cs": {
@@ -20,11 +19,6 @@
         "storefront-template": "Other",
         "locale": "en-US",
         "view-id": "a47177cd-a7b1-4717-b053-e37b2a5370c5"
-      },
-      "plugins": {
-        "picker": {
-          "rootCategory": "YOUR_ROOT_CATEGORY_ID"
-        }
       }
     }
   }
