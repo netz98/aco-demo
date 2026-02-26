@@ -22,6 +22,11 @@
         "storefront-template": "Other",
         "locale": "en-US",
         "view-id": "a47177cd-a7b1-4717-b053-e37b2a5370c5"
+      },
+      "plugins": {
+        "picker": {
+          "rootCategory": "2"
+        }
       }
     }
   }
