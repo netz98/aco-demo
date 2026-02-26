@@ -1,8 +1,8 @@
 {
   "public": {
     "default": {
+      "commerce-core-endpoint": "https://edge-graph.adobe.io/api/b79f2c56-066c-4b6a-8f96-221aaf953cda/graphql",
       "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/HM4ZhjqDZDi2yBfwM5HFuY/graphql",
-      "commerce-core-endpoint": "https://na1-sandbox.api.commerce.adobe.com/PGPvDM1pujRq1pSWXfsr4E/graphql",
       "adobe-commerce-optimizer": true,
       "commerce-assets-enabled": false,
       "headers": {
@@ -10,7 +10,13 @@
           "ac-view-id": "a47177cd-a7b1-4717-b053-e37b2a5370c5",
           "ac-price-book-id": "eu",
           "ac-scope-locale": "en-US",
-          "ac-environment-id": "HM4ZhjqDZDi2yBfwM5HFuY"
+          "ac-environment-id": "HM4ZhjqDZDi2yBfwM5HFuY",
+          "Magento-Customer-Group": "b6589fc6ab0dc82cf12099d1c2d40ab994e8410c",
+          "Magento-Store-Code": "main_website_store",
+          "Magento-Store-View-Code": "default",
+          "Magento-Website-Code": "base",
+          "x-api-key": "4dfa19c9fe6f4cccade55cc5b3da94f7",
+          "Magento-Environment-Id": "f38a0de0-764b-41fa-bd2c-5bc2f3c7b39a"
         }
       },
       "analytics": {
