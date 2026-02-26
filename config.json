@@ -7,12 +7,9 @@
       "commerce-assets-enabled": true,
       "adobe-commerce-optimizer": true,
       "headers": {
-        "all": {
-          "Store": "default"
-        },
         "cs": {
-          "ac-view-id": "a47177cd-a7b1-4717-b053-e37b2a5370c5",
-          "ac-price-book-id": "eu"
+          "AC-View-ID": "a47177cd-a7b1-4717-b053-e37b2a5370c5",
+          "AC-Price-Book-ID": "eu"
         }
       },
       "plugins": {
